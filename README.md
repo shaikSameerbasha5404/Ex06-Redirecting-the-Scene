@@ -26,9 +26,9 @@ Step 7
 Print the Output and end the program.
 
 ## Program:
-NAME: M.CHANDRU
+NAME: Shaik Sameer Basha
 
-REG NO: 212222230026
+REG NO: 212222240093
 ## PLAYERCONTROLLER
 ```C#
 using System.Collections;
